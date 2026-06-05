@@ -11,6 +11,8 @@ I work mostly with Angular, TypeScript, RxJS, Nx, OpenLayers, PrimeNG, and Kendo
 Declarative Angular components for OpenLayers maps.
 
 - Repository: https://github.com/kamilfurtak/ng-openlayers
+- Demo: https://kamilfurtak.github.io/ng-openlayers/
+- Tutorial: https://medium.com/@kamilfurtak/create-interactive-maps-with-angular-17-and-latest-openlayers-7ae9b7fdb7ec
 
 ### Enterprise Angular Modernization
 
@@ -32,3 +34,4 @@ I build practical workflows around Nx, repository-specific engineering rules, MC
 
 - GitHub: https://github.com/kamilfurtak
 - LinkedIn: https://linkedin.com/in/kamilfurtak
+- Blog: https://medium.com/@kamilfurtak
