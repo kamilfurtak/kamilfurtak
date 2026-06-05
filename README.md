@@ -1,0 +1,37 @@
+# Kamil Furtak
+
+Senior Angular Engineer focused on enterprise frontend modernization, Angular architecture, reusable UI libraries, Nx monorepos, geospatial UI, and practical AI-assisted developer tooling.
+
+I work mostly with Angular, TypeScript, RxJS, Nx, OpenLayers, PrimeNG, and Kendo-style enterprise UI patterns. I enjoy turning mature, complex frontend systems into maintainable architecture: stable contracts, reusable libraries, migration paths, validation workflows, and interfaces built for real operational work.
+
+## Featured Work
+
+### ng-openlayers
+
+Declarative Angular components for OpenLayers maps.
+
+- Repository: https://github.com/kamilfurtak/ng-openlayers
+- Demo: https://kamilfurtak.github.io/ng-openlayers/
+- Tutorial: https://blog.furtak.dev/create-interactive-maps-with-angular-17-and-latest-openlayers-7ae9b7fdb7ec
+
+### Enterprise Angular Modernization
+
+I focus on migration strategies for mature Angular applications: preserving important screen contracts while moving UI implementation forward. Recent work includes Kendo-style compatibility patterns, PrimeNG wrapper architecture, grid/dialog/form migration boundaries, and source/type/build validation workflows.
+
+### Developer Tooling
+
+I build practical workflows around Nx, repository-specific engineering rules, MCP-style automation, code review loops, and AI-assisted implementation with explicit validation.
+
+## What I Bring
+
+- Hands-on Angular architecture for large frontend systems.
+- Migration thinking across grids, forms, dialogs, maps, files, and shared UI contracts.
+- Strong TypeScript/RxJS habits and reusable library design.
+- Geospatial UI experience with Angular and OpenLayers.
+- Practical AI-assisted engineering without skipping review, testing, or validation.
+
+## Links
+
+- GitHub: https://github.com/kamilfurtak
+- LinkedIn: https://linkedin.com/in/kamilfurtak
+- Blog: https://blog.furtak.dev
