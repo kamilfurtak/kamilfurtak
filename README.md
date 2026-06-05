@@ -8,7 +8,7 @@ I work mostly with Angular, TypeScript, RxJS, Nx, OpenLayers, PrimeNG, and Kendo
 
 ### Angular UI Modernization Case Study
 
-Public portfolio case study for enterprise Angular modernization: Kendo-style workflow preservation, PrimeNG-backed wrappers, Nx architecture, validation gates, and a public-safe operational demo.
+Public portfolio case study for enterprise Angular modernization: Kendo-style workflow preservation, PrimeNG-backed wrappers, Nx architecture, migration boundaries, and public-safe workflow proof.
 
 - Repository: https://github.com/kamilfurtak/angular-ui-modernization-case-study
 
@@ -22,7 +22,7 @@ Declarative Angular components for OpenLayers maps.
 
 ### Enterprise Angular Modernization
 
-I focus on migration strategies for mature Angular applications: preserving important screen contracts while moving UI implementation forward. Recent work includes Kendo-style compatibility patterns, PrimeNG wrapper architecture, grid/dialog/form migration boundaries, and source/type/build validation workflows.
+I focus on migration strategies for mature Angular applications: preserving important screen contracts while moving UI implementation forward. Recent work includes Kendo-style compatibility patterns, PrimeNG wrapper architecture, grid/dialog/form migration boundaries, and public-safe workflow proof.
 
 ### Developer Tooling
 
