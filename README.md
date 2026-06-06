@@ -16,6 +16,11 @@ Public portfolio case study for enterprise Angular modernization: Kendo-style wo
 
 Declarative OpenLayers components for Angular.
 
+[![npm version](https://img.shields.io/npm/v/ng-openlayers.svg)](https://www.npmjs.com/package/ng-openlayers)
+[![npm downloads](https://img.shields.io/npm/dw/ng-openlayers.svg)](https://www.npmjs.com/package/ng-openlayers)
+
+Public Angular/OpenLayers library with active npm usage and a GitHub Pages demo.
+
 - Repository: https://github.com/kamilfurtak/ng-openlayers
 - Demo: https://kamilfurtak.github.io/ng-openlayers/
 - Tutorial: https://medium.com/@kamilfurtak/create-interactive-maps-with-angular-17-and-latest-openlayers-7ae9b7fdb7ec
