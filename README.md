@@ -14,7 +14,7 @@ Public portfolio case study for enterprise Angular modernization: Kendo-style wo
 
 ### ng-openlayers
 
-Declarative Angular components for OpenLayers maps.
+Declarative OpenLayers components for Angular.
 
 - Repository: https://github.com/kamilfurtak/ng-openlayers
 - Demo: https://kamilfurtak.github.io/ng-openlayers/
