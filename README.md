@@ -2,6 +2,8 @@
 
 Senior Angular Engineer focused on enterprise frontend modernization, Angular architecture, geospatial systems, reusable UI libraries, and practical developer tooling.
 
+Website: [furtak.dev](https://furtak.dev/)
+
 I specialize in Angular, TypeScript, RxJS, Nx monorepos, Kendo UI, PrimeNG, OpenLayers, and frontend architecture. I also work around the integration and tooling layers that make large applications successful: Java/Spring, C#/.NET, NestJS/Node.js, PHP/Symfony, SAML, SOAP/WSDL, certificates, OpenAPI, Firebase/PWA flows, runtime tooling, and AI-assisted engineering workflows.
 
 ## Current Focus
@@ -44,7 +46,9 @@ Public Angular/OpenLayers library with a GitHub Pages demo, npm publishing workf
 
 - [Repository](https://github.com/kamilfurtak/ng-openlayers)
 - [Demo](https://kamilfurtak.github.io/ng-openlayers/)
-- [Tutorial](https://medium.com/@kamilfurtak/create-interactive-maps-with-angular-17-and-latest-openlayers-7ae9b7fdb7ec)
+- [npm package](https://www.npmjs.com/package/ng-openlayers)
+- [Own-domain article](https://furtak.dev/articles/angular-openlayers/)
+- [Medium tutorial](https://medium.com/@kamilfurtak/create-interactive-maps-with-angular-17-and-latest-openlayers-7ae9b7fdb7ec)
 
 ## Broader Engineering Work
 
@@ -71,6 +75,7 @@ Self-directed Angular/Nx prototypes using standalone components, signal-oriented
 
 ## Links
 
+- [Website](https://furtak.dev/)
 - [LinkedIn](https://linkedin.com/in/kamilfurtak)
 - [GitHub](https://github.com/kamilfurtak)
 - [Medium](https://medium.com/@kamilfurtak)
