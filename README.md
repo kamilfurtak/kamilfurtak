@@ -16,7 +16,9 @@ I specialize in Angular, TypeScript, RxJS, Nx monorepos, Kendo UI, PrimeNG, Open
 
 ### Enterprise Angular UI Modernization
 
-[![Angular UI Modernization Case Study](assets/angular-ui-modernization-social-preview.png)](https://github.com/kamilfurtak/angular-ui-modernization-case-study)
+<a href="https://github.com/kamilfurtak/angular-ui-modernization-case-study">
+  <img src="assets/angular-ui-modernization-social-preview.png" alt="Angular UI Modernization Case Study" width="720">
+</a>
 
 A public-safe case study for preserving Kendo-style enterprise workflows while moving rendering behind neutral contracts, compatibility adapters, and PrimeNG-backed wrappers.
 
@@ -28,7 +30,9 @@ A public-safe case study for preserving Kendo-style enterprise workflows while m
 
 ### ng-openlayers
 
-[![ng-openlayers social preview](assets/ng-openlayers-social-preview.png)](https://github.com/kamilfurtak/ng-openlayers)
+<a href="https://github.com/kamilfurtak/ng-openlayers">
+  <img src="assets/ng-openlayers-social-preview.png" alt="ng-openlayers social preview" width="720">
+</a>
 
 Declarative OpenLayers components for Angular.
 
