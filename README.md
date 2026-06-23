@@ -16,13 +16,30 @@ I specialize in Angular, TypeScript, RxJS, Nx monorepos, Kendo UI, PrimeNG, Open
 
 ## Featured Work
 
+### ePUAP / login.gov Integration Portfolio
+
+<a href="https://furtak.dev/epuap-login-gov-integration-portfolio/">
+  <img src="https://furtak.dev/epuap-login-gov-integration-portfolio/assets/hero-integration-lab-branded.png" alt="ePUAP / login.gov Integration Portfolio" width="720">
+</a>
+
+Cross-stack identity integration portfolio showing how frontend work connects
+with backend APIs, identity protocols, generated contracts, Java/SOAP
+integration and certificate-aware validation.
+
+[![Live portfolio](https://img.shields.io/badge/live-furtak.dev-0f8f6f)](https://furtak.dev/epuap-login-gov-integration-portfolio/)
+[![Repository](https://img.shields.io/badge/repository-GitHub-24292f)](https://github.com/kamilfurtak/epuap-login-gov-integration-portfolio)
+
+- Angular inspection client for redirects, callbacks and typed API responses.
+- Parallel NestJS, ASP.NET Core and Java/Spring integration tracks.
+- SAML, certificates, XML signatures, SOAP/WSDL, OpenAPI and generated models.
+
 ### Enterprise Angular UI Modernization
 
 <a href="https://github.com/kamilfurtak/angular-ui-modernization-case-study">
   <img src="assets/angular-ui-modernization-social-preview.png" alt="Angular UI Modernization Case Study" width="720">
 </a>
 
-A public-safe case study for preserving Kendo-style enterprise workflows while moving rendering behind neutral contracts, compatibility adapters, and PrimeNG-backed wrappers.
+A case study for preserving Kendo-style enterprise workflows while moving rendering behind neutral contracts, compatibility adapters, and PrimeNG-backed wrappers.
 
 - Angular/Nx architecture for reusable UI libraries.
 - Migration coverage across grids, toolbars, dialogs, forms, files, maps, messages, and workflow state.
@@ -54,7 +71,7 @@ Public Angular/OpenLayers library with a GitHub Pages demo, npm publishing workf
 
 ### Cross-stack integration
 
-Hands-on production exposure and self-directed prototypes around Angular clients, NestJS/Node.js APIs, ASP.NET Core/.NET services, Java Spring clients, SAML, certificates, SOAP/WSDL services, Swagger/OpenAPI, generated TypeScript contracts, authentication request generation, artifact resolution, and response validation.
+Hands-on production exposure and self-directed prototypes around Angular clients, NestJS/Node.js APIs, ASP.NET Core/.NET services, Java Spring clients, SAML, certificates, SOAP/WSDL services, Swagger/OpenAPI, generated TypeScript contracts, authentication request generation, artifact resolution, and response validation. See the [ePUAP / login.gov integration portfolio](https://furtak.dev/epuap-login-gov-integration-portfolio/) for a polished case study of this work.
 
 ### Developer tooling and AI-assisted workflows
 
