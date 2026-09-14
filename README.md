@@ -1,98 +1,38 @@
-# Kamil Furtak
+# Kamil Furtak · Senior Angular Engineer
 
-Senior Angular Engineer focused on enterprise frontend modernization, Angular architecture, geospatial systems, reusable UI libraries, and practical developer tooling.
+I modernize enterprise Angular frontends and build reusable UI libraries, with a focus on **Angular, TypeScript, RxJS, Nx and geospatial interfaces**.
 
-Website: [furtak.dev](https://furtak.dev/)
+[Website & work samples](https://furtak.dev/) · [LinkedIn / contact](https://linkedin.com/in/kamilfurtak)
 
-I specialize in Angular, TypeScript, RxJS, Nx monorepos, Kendo UI, PrimeNG, OpenLayers, and frontend architecture. I also work around the integration and tooling layers that make large applications successful: Java/Spring, C#/.NET, NestJS/Node.js, PHP/Symfony, SAML, SOAP/WSDL, certificates, OpenAPI, Firebase/PWA flows, runtime tooling, and AI-assisted engineering workflows.
+## Selected engineering work
 
-## Current Focus
+### [ng-openlayers](https://github.com/kamilfurtak/ng-openlayers)
+Declarative Angular components for OpenLayers maps, layers, sources, controls and interactions.
 
-- Modernizing mature Angular applications without risky rewrites.
-- Designing reusable UI contracts, migration boundaries, and PrimeNG/Kendo-style compatibility layers.
-- Building dense operational interfaces with grids, forms, dialogs, files, maps, and shared state.
-- Using Nx, MCP-style tools, repository-specific rules, coding agents, and code-generation evaluation to improve developer feedback loops.
-- Keeping AI-assisted development grounded in review, tests, accessibility checks, production builds, and browser verification.
+- Published [npm package](https://www.npmjs.com/package/ng-openlayers) and [interactive demo](https://ng-openlayers.furtak.dev/).
+- Maintainer work: API compatibility, releases, Angular lifecycle ownership and geospatial examples.
+- [Regression tests and validation scope](https://github.com/kamilfurtak/ng-openlayers/blob/master/docs/validation.md): teardown, projection changes and browser workflows — with CI gates, not only screenshots.
 
-## Featured Work
+### [Enterprise Angular UI modernization](https://github.com/kamilfurtak/angular-ui-modernization-case-study)
+Keep workflow state independent of the rendering library. The public example switches between a native table and a PrimeNG adapter without losing search, sorting, selection or a draft.
 
-### ePUAP / login.gov Integration Portfolio
+- [Live workbench](https://furtak.dev/angular-ui-modernization-case-study/) · [Source & tests](https://github.com/kamilfurtak/angular-ui-modernization-case-study/tree/main/demo).
+- Independent, AI-assisted implementation using synthetic data; no employer code. The broader private case study is clearly separated from this executable sample.
 
-<a href="https://furtak.dev/epuap-login-gov-integration-portfolio/">
-  <img src="https://furtak.dev/epuap-login-gov-integration-portfolio/assets/hero-integration-lab-branded.png" alt="ePUAP / login.gov Integration Portfolio" width="720">
-</a>
+### [local-model-bridge](https://github.com/kamilfurtak/local-model-bridge)
+A practical developer-tooling sample: a local model bridge with HTTP/SSE protocol handling, setup checks and automated compatibility tests.
 
-Cross-stack identity integration portfolio showing how frontend work connects
-with backend APIs, identity protocols, generated contracts, Java/SOAP
-integration and certificate-aware validation.
+- [Validation evidence and limits](https://github.com/kamilfurtak/local-model-bridge/blob/main/docs/validation.md).
+- Shows how I use AI-assisted engineering together with source review and reproducible checks.
 
-[![Live portfolio](https://img.shields.io/badge/live-furtak.dev-0f8f6f)](https://furtak.dev/epuap-login-gov-integration-portfolio/)
-[![Repository](https://img.shields.io/badge/repository-GitHub-24292f)](https://github.com/kamilfurtak/epuap-login-gov-integration-portfolio)
+### [Identity integration case study](https://github.com/kamilfurtak/epuap-login-gov-integration-portfolio)
+An architectural walkthrough of frontend/API boundaries, SAML, SOAP/WSDL, generated contracts and certificate-related failure modes. **Static case study, not a production login.gov/ePUAP service or a public backend implementation.**
 
-- Angular inspection client for redirects, callbacks and typed API responses.
-- Parallel NestJS, ASP.NET Core and Java/Spring integration tracks.
-- SAML, certificates, XML signatures, SOAP/WSDL, OpenAPI and generated models.
+## Selected open-source contributions
 
-### Enterprise Angular UI Modernization
+- **[bolt.diy #1322](https://github.com/stackblitz-labs/bolt.diy/pull/1322)** — merged model-search and selector improvements.
+- **[Hindsight #3656](https://github.com/vectorize-io/hindsight/pull/3656)** — merged strict-schema configuration consistency fix with regression tests.
 
-<a href="https://github.com/kamilfurtak/angular-ui-modernization-case-study">
-  <img src="assets/angular-ui-modernization-social-preview.png" alt="Angular UI Modernization Case Study" width="720">
-</a>
+## How I work
 
-A case study for preserving Kendo-style enterprise workflows while moving rendering behind neutral contracts, compatibility adapters, and PrimeNG-backed wrappers.
-
-- Angular/Nx architecture for reusable UI libraries.
-- Migration coverage across grids, toolbars, dialogs, forms, files, maps, messages, and workflow state.
-- Validation evidence: source audits, production build, browser verification, and no console errors in proof flows.
-
-[Repository](https://github.com/kamilfurtak/angular-ui-modernization-case-study)
-
-### ng-openlayers
-
-<a href="https://github.com/kamilfurtak/ng-openlayers">
-  <img src="assets/ng-openlayers-social-preview.png" alt="ng-openlayers social preview" width="720">
-</a>
-
-Declarative OpenLayers components for Angular.
-
-[![npm version](https://img.shields.io/npm/v/ng-openlayers.svg)](https://www.npmjs.com/package/ng-openlayers)
-[![npm downloads](https://img.shields.io/npm/dw/ng-openlayers.svg)](https://www.npmjs.com/package/ng-openlayers)
-[![GitHub Pages demo](https://img.shields.io/badge/demo-GitHub%20Pages-2ea44f)](https://kamilfurtak.github.io/ng-openlayers/)
-
-Public Angular/OpenLayers library with a GitHub Pages demo, npm publishing workflow, and examples for map layers, sources, features, styles, controls, interactions, overlays, and geospatial UI composition.
-
-- [Repository](https://github.com/kamilfurtak/ng-openlayers)
-- [Demo](https://kamilfurtak.github.io/ng-openlayers/)
-- [npm package](https://www.npmjs.com/package/ng-openlayers)
-- [Own-domain article](https://furtak.dev/articles/angular-openlayers/)
-- [Medium tutorial](https://medium.com/@kamilfurtak/create-interactive-maps-with-angular-17-and-latest-openlayers-7ae9b7fdb7ec)
-
-## Broader Engineering Work
-
-### Cross-stack integration
-
-Hands-on production exposure and self-directed prototypes around Angular clients, NestJS/Node.js APIs, ASP.NET Core/.NET services, Java Spring clients, SAML, certificates, SOAP/WSDL services, Swagger/OpenAPI, generated TypeScript contracts, authentication request generation, artifact resolution, and response validation. See the [ePUAP / login.gov integration portfolio](https://furtak.dev/epuap-login-gov-integration-portfolio/) for a polished case study of this work.
-
-### Developer tooling and AI-assisted workflows
-
-MCP/Nx tooling, Angular/Kendo/Formly code analysis, grid/form generation, legacy-to-Angular mapping, import repair, repository-specific coding rules, code-review assistance, local LLM and coding-agent experiments, and build/accessibility repair workflows.
-
-### Product-style Angular prototypes
-
-Self-directed Angular/Nx prototypes using standalone components, signal-oriented state, Firebase anonymous auth, Firestore persistence, PWA/Firebase hosting experiments, API proxy/integration work, AI-assisted image analysis with structured outputs, domain dashboards, transaction/profit analysis, and Cypress component tests.
-
-## What I Bring
-
-- Deep Angular/TypeScript experience with senior-level ownership of frontend architecture.
-- Strong migration thinking for mature enterprise systems, not only greenfield component work.
-- Reusable library design across grids, toolbars, dialogs, forms, maps, files, and workflow state.
-- Geospatial UI experience with Angular and OpenLayers.
-- Practical cross-stack integration awareness around identity, certificates, APIs, and generated contracts.
-- AI-assisted developer tooling used with explicit validation, not as a substitute for engineering judgment.
-
-## Links
-
-- [Website](https://furtak.dev/)
-- [LinkedIn](https://linkedin.com/in/kamilfurtak)
-- [GitHub](https://github.com/kamilfurtak)
-- [Medium](https://medium.com/@kamilfurtak)
+Preserve behavior during migrations, keep contracts typed, make failure states visible, and test lifecycle and persistence boundaries. I use AI tools to accelerate implementation, while retaining responsibility for design, review and verification.
