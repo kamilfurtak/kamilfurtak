@@ -1,38 +1,45 @@
-# Kamil Furtak · Senior Angular Engineer
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/profile-banner-light.svg">
+  <img alt="Kamil Furtak — Senior Angular Engineer. Angular, TypeScript and geospatial UI." src="assets/profile-banner-light.svg" width="1440">
+</picture>
 
-I modernize enterprise Angular frontends and build reusable UI libraries, with a focus on **Angular, TypeScript, RxJS, Nx and geospatial interfaces**.
+**I make complex frontends easier to use and easier to change.**
 
-[Website & work samples](https://furtak.dev/) · [LinkedIn / contact](https://linkedin.com/in/kamilfurtak)
+Senior Angular Engineer focused on enterprise UI modernization, reusable libraries and geospatial interfaces. My core toolkit is **Angular, TypeScript, RxJS, Nx and OpenLayers**.
 
-## Selected engineering work
+[Portfolio & work samples](https://furtak.dev/) · [LinkedIn / contact](https://linkedin.com/in/kamilfurtak)
+
+## Start with the Angular work
 
 ### [ng-openlayers](https://github.com/kamilfurtak/ng-openlayers)
-Declarative Angular components for OpenLayers maps, layers, sources, controls and interactions.
 
-- Published [npm package](https://www.npmjs.com/package/ng-openlayers) and [interactive demo](https://ng-openlayers.furtak.dev/).
-- Maintainer work: API compatibility, releases, Angular lifecycle ownership and geospatial examples.
-- [Regression tests and validation scope](https://github.com/kamilfurtak/ng-openlayers/blob/master/docs/validation.md): teardown, projection changes and browser workflows — with CI gates, not only screenshots.
+**Maps, the Angular way.** A published library for composing OpenLayers maps with Angular components. My maintainer work covers API compatibility, releases, component lifecycle ownership and geospatial examples.
 
-### [Enterprise Angular UI modernization](https://github.com/kamilfurtak/angular-ui-modernization-case-study)
-Keep workflow state independent of the rendering library. The public example switches between a native table and a PrimeNG adapter without losing search, sorting, selection or a draft.
+[Live examples](https://ng-openlayers.furtak.dev/) · [npm package](https://www.npmjs.com/package/ng-openlayers) · [Source & validation](https://github.com/kamilfurtak/ng-openlayers/blob/master/docs/validation.md)
 
-- [Live workbench](https://furtak.dev/angular-ui-modernization-case-study/) · [Source & tests](https://github.com/kamilfurtak/angular-ui-modernization-case-study/tree/main/demo).
-- Independent, AI-assisted implementation using synthetic data; no employer code. The broader private case study is clearly separated from this executable sample.
+### [Angular UI modernization](https://github.com/kamilfurtak/angular-ui-modernization-case-study)
 
-### [local-model-bridge](https://github.com/kamilfurtak/local-model-bridge)
-A practical developer-tooling sample: a local model bridge with HTTP/SSE protocol handling, setup checks and automated compatibility tests.
+**A new UI. The same workflow.** Replace a native table with PrimeNG without losing search, sorting, selection or a draft. A small independent workbench with typed state, controlled failures and regression tests.
 
-- [Validation evidence and limits](https://github.com/kamilfurtak/local-model-bridge/blob/main/docs/validation.md).
-- Shows how I use AI-assisted engineering together with source review and reproducible checks.
+[Try the workbench](https://furtak.dev/angular-ui-modernization-case-study/) · [Code, tests & design decisions](https://github.com/kamilfurtak/angular-ui-modernization-case-study/tree/main/demo)
 
-### [Identity integration case study](https://github.com/kamilfurtak/epuap-login-gov-integration-portfolio)
-An architectural walkthrough of frontend/API boundaries, SAML, SOAP/WSDL, generated contracts and certificate-related failure modes. **Static case study, not a production login.gov/ePUAP service or a public backend implementation.**
+The public sample uses synthetic data and was developed with AI assistance. It is separate from the broader private case study and contains no employer code.
 
-## Selected open-source contributions
+## Contributing back
 
-- **[bolt.diy #1322](https://github.com/stackblitz-labs/bolt.diy/pull/1322)** — merged model-search and selector improvements.
-- **[Hindsight #3656](https://github.com/vectorize-io/hindsight/pull/3656)** — merged strict-schema configuration consistency fix with regression tests.
+Selected changes accepted by other open-source projects:
+
+- **[bolt.diy #1322](https://github.com/stackblitz-labs/bolt.diy/pull/1322)** — model search and selector improvements.
+- **[Hindsight #3656](https://github.com/vectorize-io/hindsight/pull/3656)** — strict-schema configuration consistency with regression tests.
+
+## Beyond the interface
+
+- **[local-model-bridge](https://github.com/kamilfurtak/local-model-bridge)** — experimental developer tooling with HTTP/SSE handling, setup checks and cross-platform tests. [Validation & compatibility boundaries](https://github.com/kamilfurtak/local-model-bridge/blob/main/docs/validation.md).
+- **[Identity integration](https://github.com/kamilfurtak/epuap-login-gov-integration-portfolio)** — a static architecture walkthrough of frontend/API boundaries, SAML, SOAP/WSDL and generated contracts. It is not a live login.gov/ePUAP service or a public backend implementation.
 
 ## How I work
 
-Preserve behavior during migrations, keep contracts typed, make failure states visible, and test lifecycle and persistence boundaries. I use AI tools to accelerate implementation, while retaining responsibility for design, review and verification.
+Keep contracts typed. Preserve behavior during migrations. Test lifecycle, error and persistence boundaries. I use AI tools to support implementation, while retaining responsibility for design, source review and verification.
+
+[Read my Angular & OpenLayers article](https://furtak.dev/articles/angular-openlayers/) · [Get in touch](https://linkedin.com/in/kamilfurtak)
