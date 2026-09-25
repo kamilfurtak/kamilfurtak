@@ -18,11 +18,11 @@ Senior Angular Engineer focused on enterprise UI modernization, reusable librari
 
 [Live examples](https://ng-openlayers.furtak.dev/) · [npm package](https://www.npmjs.com/package/ng-openlayers) · [Source & validation](https://github.com/kamilfurtak/ng-openlayers/blob/master/docs/validation.md)
 
-### [Angular UI modernization](https://github.com/kamilfurtak/angular-ui-modernization-case-study)
+### [Angular UI modernization](https://furtak.dev/angular-ui-modernization-case-study/)
 
 **A new UI. The same workflow.** Replace a native table with PrimeNG without losing search, sorting, selection or a draft. A small independent workbench with typed state, controlled failures and regression tests.
 
-[Try the workbench](https://furtak.dev/angular-ui-modernization-case-study/) · [Code, tests & design decisions](https://github.com/kamilfurtak/angular-ui-modernization-case-study/tree/main/demo)
+[Try the workbench](https://furtak.dev/angular-ui-modernization-case-study/) · [Code, tests & design decisions](https://github.com/kamilfurtak/kamilfurtak.github.io/tree/main/reference-sources/angular-ui-modernization-case-study/demo)
 
 The public sample uses synthetic data and was developed with AI assistance. It is separate from the broader private case study and contains no employer code.
 
@@ -35,8 +35,8 @@ Selected changes accepted by other open-source projects:
 
 ## Beyond the interface
 
-- **[local-model-bridge](https://github.com/kamilfurtak/local-model-bridge)** — experimental developer tooling with HTTP/SSE handling, setup checks and cross-platform tests. [Validation & compatibility boundaries](https://github.com/kamilfurtak/local-model-bridge/blob/main/docs/validation.md).
-- **[Identity integration](https://github.com/kamilfurtak/epuap-login-gov-integration-portfolio)** — a static architecture walkthrough of frontend/API boundaries, SAML, SOAP/WSDL and generated contracts. It is not a live login.gov/ePUAP service or a public backend implementation.
+- **[local-model-bridge (archived)](https://github.com/kamilfurtak/kamilfurtak.github.io/tree/main/reference-sources/local-model-bridge)** — experimental developer tooling with HTTP/SSE handling, setup checks and cross-platform tests. [Validation & compatibility boundaries](https://github.com/kamilfurtak/kamilfurtak.github.io/blob/main/reference-sources/local-model-bridge/docs/validation.md).
+- **[Identity integration](https://furtak.dev/epuap-login-gov-integration-portfolio/)** — a static architecture walkthrough of frontend/API boundaries, SAML, SOAP/WSDL and generated contracts. It is not a live login.gov/ePUAP service or a public backend implementation.
 
 ## How I work
 
