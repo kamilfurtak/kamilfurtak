@@ -10,7 +10,7 @@ Senior Angular Engineer focused on enterprise UI modernization, reusable librari
 
 [Portfolio & work samples](https://furtak.dev/) · [LinkedIn / contact](https://linkedin.com/in/kamilfurtak)
 
-## Start with the Angular work
+## Selected work
 
 ### [ng-openlayers](https://github.com/kamilfurtak/ng-openlayers)
 
@@ -26,6 +26,12 @@ Senior Angular Engineer focused on enterprise UI modernization, reusable librari
 
 The public sample uses synthetic data and was developed with AI assistance. It is separate from the broader private case study and contains no employer code.
 
+### [Identity integration architecture](https://furtak.dev/epuap-login-gov-integration-portfolio/)
+
+A static walkthrough of frontend/API boundaries, SAML, SOAP/WSDL and generated contracts. It explains integration decisions and tradeoffs; it is not a live login.gov/ePUAP service or a public backend implementation.
+
+[Explore the portfolio and public source snapshots](https://github.com/kamilfurtak/kamilfurtak.github.io)
+
 ## Contributing back
 
 Selected changes accepted by other open-source projects:
@@ -33,10 +39,9 @@ Selected changes accepted by other open-source projects:
 - **[bolt.diy #1322](https://github.com/stackblitz-labs/bolt.diy/pull/1322)** — model search and selector improvements.
 - **[Hindsight #3656](https://github.com/vectorize-io/hindsight/pull/3656)** — strict-schema configuration consistency with regression tests.
 
-## Beyond the interface
+## Other archived work
 
-- **[local-model-bridge (archived)](https://github.com/kamilfurtak/kamilfurtak.github.io/tree/main/reference-sources/local-model-bridge)** — experimental developer tooling with HTTP/SSE handling, setup checks and cross-platform tests. [Validation & compatibility boundaries](https://github.com/kamilfurtak/kamilfurtak.github.io/blob/main/reference-sources/local-model-bridge/docs/validation.md).
-- **[Identity integration](https://furtak.dev/epuap-login-gov-integration-portfolio/)** — a static architecture walkthrough of frontend/API boundaries, SAML, SOAP/WSDL and generated contracts. It is not a live login.gov/ePUAP service or a public backend implementation.
+[local-model-bridge](https://github.com/kamilfurtak/kamilfurtak.github.io/tree/main/reference-sources/local-model-bridge) is an archived tooling experiment. Its [validation notes](https://github.com/kamilfurtak/kamilfurtak.github.io/blob/main/reference-sources/local-model-bridge/docs/validation.md) record the tested boundaries.
 
 ## How I work
 
