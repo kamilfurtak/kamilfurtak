@@ -10,7 +10,7 @@ I build Angular interfaces for complex workflows and interactive maps. My focus 
 
 **Core toolkit:** Angular, TypeScript, RxJS, Nx and OpenLayers.
 
-[Portfolio & demos](https://furtak.dev/) · [Engineering decisions & review guide](engineering-notes.md) · [LinkedIn / contact](https://linkedin.com/in/kamilfurtak)
+[Portfolio & demos](https://furtak.dev/) · [Engineering decisions & review guide](engineering-notes.md) · [Work with me & CV](https://furtak.dev/hire-me/)
 
 ## Selected engineering work
 
